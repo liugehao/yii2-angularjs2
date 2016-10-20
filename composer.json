@@ -11,6 +11,9 @@
       "homepage": "http://www.workgroup.cn",
     }
   ],
+  "require": {
+        "yiisoft/yii2": "*"
+    },
   "autoload": {
     "psr-4": {
       "liugehao\\angularjs2\\": ""
