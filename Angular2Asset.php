@@ -9,7 +9,7 @@ use yii\web\AssetBundle;
  *
  * @author Liugehao <root@workgroup.cn>
  */
-class AngularAsset extends AssetBundle
+class Angular2Asset extends AssetBundle
 {
     public $sourcePath = '@vendor/liugehao/yii2-angularjs2';
     public $js = [
