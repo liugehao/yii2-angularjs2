@@ -1,6 +1,5 @@
 {
   "name": "liugehao/yii2-angularjs2",
-  "type": "library",
   "description": "The assets bundle of Angularjs 2 for Yii2.",
   "minimum-stability": "stable",
   "keywords": ["angular", "angularjs2", "angularjs", "yii", "yii2"],
@@ -10,17 +9,8 @@
       "name": "Liugehao",
       "email": "root@workgroup.cn",
       "homepage": "http://www.workgroup.cn",
-      "role": "Developer"
     }
   ],
-  "support": {
-    "email": "root@workgroup.cn",
-    "issues": "https://github.com/liugehao/yii2-angularjs2/issues",
-    "source": "https://github.com/liugehao/yii2-angularjs2"
-  },
-  "require": {
-    "php": ">=5.4.0"
-  },
   "autoload": {
     "psr-4": {
       "liugehao\\angularjs2\\": ""
