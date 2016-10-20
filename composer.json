@@ -2,6 +2,7 @@
   "name": "liugehao/yii2-angularjs2",
   "type": "library",
   "description": "The assets bundle of Angularjs 2 for Yii2.",
+  "minimum-stability": "0.1.0",
   "keywords": ["angular", "angularjs2", "angularjs", "yii", "yii2"],
   "license": "BSD-3-Clause",
   "authors": [
